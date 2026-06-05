@@ -1,0 +1,8 @@
+hospital_data.csv
+__pycache__/
+*.pyc
+heatmap_data.csv
+worst_hours.csv
+worst_days.csv
+critical_data.csv
+check.py
